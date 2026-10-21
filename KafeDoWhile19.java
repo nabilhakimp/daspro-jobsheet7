@@ -19,7 +19,7 @@ public class KafeDoWhile19 {
                 System.out.println("Transaksi dibatalkan.");
                 break;
             }
-
+            
             System.out.print("Jumlah kopi: ");
             kopi = sc.nextInt();
             System.out.print("Jumlah teh: ");
